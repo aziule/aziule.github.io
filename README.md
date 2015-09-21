@@ -281,8 +281,8 @@ p {
     <td></td>
   </tr>
   <tr>
-    <td>h1
-h2
+    <td>h1<br>
+h2<br>
 ...</td>
     <td>Style global des titres</td>
   </tr>
@@ -291,13 +291,13 @@ h2
     <td>Style global des paragraphes</td>
   </tr>
   <tr>
-    <td>.left
+    <td>.left<br>
 .right</td>
     <td>Flottement</td>
   </tr>
   <tr>
-    <td>.text-left
-.text-center
+    <td>.text-left<br>
+.text-center<br>
 .text-right</td>
     <td>Alignement du texte</td>
   </tr>
@@ -306,26 +306,26 @@ h2
     <td>Clear du flux HTML</td>
   </tr>
   <tr>
-    <td>.margin-top0
-.margin-top1
-.margin-bottom0
+    <td>.margin-top0<br>
+.margin-top1<br>
+.margin-bottom0<br>
 ...</td>
     <td>Margin en accord avec le design</td>
   </tr>
   <tr>
-    <td>.padding-top
+    <td>.padding-top<br>
 .padding-bottom</td>
     <td>Padding en accord avec le design</td>
   </tr>
   <tr>
-    <td>.inline
-.inline-block
+    <td>.inline<br>
+.inline-block<br>
 .block</td>
     <td>Affichage de l’élément</td>
   </tr>
   <tr>
-    <td>.absolute
-.fixed
+    <td>.absolute<br>
+.fixed<br>
 .relative</td>
     <td>Position de l’élément</td>
   </tr>
@@ -338,14 +338,14 @@ h2
     <td></td>
   </tr>
   <tr>
-    <td>.background-dark
-.background-light
+    <td>.background-dark<br>
+.background-light<br>
 ...</td>
     <td>Couleur du fond</td>
   </tr>
   <tr>
-    <td>.red
-.blue
+    <td>.red<br>
+.blue<br>
 ...</td>
     <td>Couleur du texte</td>
   </tr>
@@ -358,9 +358,9 @@ h2
     <td>Une ligne</td>
   </tr>
   <tr>
-    <td>.col1
-.col2
-.col3
+    <td>.col1<br>
+.col2<br>
+.col3<br>
 ...</td>
     <td>Une colonne (selon une grille de taille prédéfinie)</td>
   </tr>
@@ -369,9 +369,9 @@ h2
     <td></td>
   </tr>
   <tr>
-    <td>.button
-.button-cta //call to action
-.button-primary
+    <td>.button<br>
+.button-cta //call to action<br>
+.button-primary<br>
 .button-secondary</td>
     <td>Boutons</td>
   </tr>
