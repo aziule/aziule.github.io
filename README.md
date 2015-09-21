@@ -216,7 +216,9 @@ Il est important de garder une même logique lors du nomage des éléments.
   </tr>
   <tr>
     <td>Objet</td>
-    <td>```.nom {}```</td>
+    <td>```css
+    .nom {}```
+    </td>
     <td>```.button {}```</td>
   </tr>
   <tr>
