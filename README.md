@@ -216,22 +216,21 @@ Il est important de garder une même logique lors du nomage des éléments.
   </tr>
   <tr>
     <td>Objet</td>
-    <td>`.nom {}`
+    <td><code>.nom {}</code>
     </td>
-    <td>```.button {}```</td>
+    <td><pre>.button {}</pre></td>
   </tr>
   <tr>
     <td>Parent-enfant</td>
-    <td>```.nom {}
-
-.nom-nom {}```</td>
+    <td><code>.nom {}<br>
+.nom-nom {}</code></td>
     <td>```.box {}
 
 .box-title {}```</td>
   </tr>
   <tr>
     <td>Sous-classe</td>
-    <td>```.nom-adjectif {}```</td>
+    <td><pre>.nom-adjectif {}<br>.abc {}</pre></td>
     <td>```.nav-dark {}```</td>
   </tr>
   <tr>
