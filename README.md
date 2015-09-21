@@ -230,13 +230,13 @@ Il est important de garder une même logique lors du nomage des éléments.
   </tr>
   <tr>
     <td>Sous-classe</td>
-    <td><pre>.nom-adjectif {}<br>.abc {}</pre></td>
-    <td>```.nav-dark {}```</td>
+    <td><pre>`.nom-adjectif {}`</pre></td>
+    <td><pre>```.nav-dark {}```</pre></td>
   </tr>
   <tr>
     <td>Modificateur</td>
-    <td>```.adjectif {}```</td>
-    <td>```.left {}```</td>
+    <td>```css <pre>.adjectif {}</pre>```</td>
+    <td>```css <br><pre>.left {}</pre>```</td>
   </tr>
 </table>
 
