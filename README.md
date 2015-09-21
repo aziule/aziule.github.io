@@ -9,7 +9,7 @@ Pour cela, nous suivons un ensemble de best practices ainsi que des guidelines q
 
 Le problème est qu’à l’heure actuelle nous disposons de toutes ces guidelines pour le développement back-end mais qu’il n’en n’existe aucune pour le front-end. Résultat : le front-end est en place, compatible avec l’ensemble des navigateurs et nous retrouvons même une architecture semblable des fichiers d’un projet à l’autre, mais tout est encore trop spécifique et il est difficile, par exemple, d’intégrer rapidement des éléments.
 
-L’objet de ce document est de définir une base commune et uniforme, servant de repère pour les projets en cours et les projets futurs, afin d’avoir une base générique à chaque projet. Nous allons couvrir deux technologies front-end : le CSS (principalement) et le Javascript.
+L’objet de ce document est de définir une base commune et uniforme, servant de repère pour les projets en cours et les projets futurs, afin d’avoir une base générique à chaque projet. Nous allons couvrir ici le CSS et son préprocesseur SASS.
 
 # CSS
 
