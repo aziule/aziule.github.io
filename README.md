@@ -431,31 +431,31 @@ Voici la structure qui doit être utilisée dans SASS pour avoir une efficacité
   </tr>
   <tr>
     <td>/scss/base/_variables.scss</td>
-    <td>Variables <sub>TOUJOURS PRÉSENT</sub></td>
+    <td>Variables <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/base/_grid.scss</td>
-    <td>Système de grilles  <sup>TOUJOURS PRÉSENT</sup></td>
+    <td>Système de grilles <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/base/_typography.scss</td>
-    <td>Typographie TOUJOURS PRÉSENT</td>
+    <td>Typographie <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/base/_placeholders.scss</td>
-    <td>Placeholders de base  TOUJOURS PRÉSENT</td>
+    <td>Placeholders de base <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/base/_mixins.scss</td>
-    <td>Mixins de base  TOUJOURS PRÉSENT</td>
+    <td>Mixins de base <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/modules/_buttons.scss</td>
-    <td>Boutons  TOUJOURS PRÉSENT</td>
+    <td>Boutons <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/modules/_nav.scss</td>
-    <td>Eléments de navigation  TOUJOURS PRÉSENT</td>
+    <td>Eléments de navigation <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/modules/_tabs.scss</td>
@@ -471,7 +471,7 @@ Voici la structure qui doit être utilisée dans SASS pour avoir une efficacité
   </tr>
   <tr>
     <td>/scss/main.scss</td>
-    <td>Include (seulement) des autres fichiers TOUJOURS PRÉSENT</td>
+    <td>Include (seulement) des autres fichiers <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
 </table>
 
