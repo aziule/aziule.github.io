@@ -1,4 +1,4 @@
-ntegration best practices
+Integration best practices
 ===
 
 # Introduction
@@ -216,25 +216,27 @@ Il est important de garder une même logique lors du nomage des éléments.
   </tr>
   <tr>
     <td>Objet</td>
-    <td>.nom {}</td>
-    <td>.button {}</td>
+    <td>```.nom {}```</td>
+    <td>```.button {}```</td>
   </tr>
   <tr>
     <td>Parent-enfant</td>
-    <td>.nom {}
-.nom-nom {}</td>
-    <td>.box {}
-.box-title {}</td>
+    <td>```.nom {}
+
+.nom-nom {}```</td>
+    <td>```.box {}
+
+.box-title {}```</td>
   </tr>
   <tr>
     <td>Sous-classe</td>
-    <td>.nom-adjectif {}</td>
-    <td>.nav-dark {}</td>
+    <td>```.nom-adjectif {}```</td>
+    <td>```.nav-dark {}```</td>
   </tr>
   <tr>
     <td>Modificateur</td>
-    <td>.adjectif {}	</td>
-    <td>.left {}</td>
+    <td>```.adjectif {}```</td>
+    <td>```.left {}```</td>
   </tr>
 </table>
 
