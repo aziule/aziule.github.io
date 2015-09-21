@@ -633,7 +633,7 @@ Bon exemple :
 
 /scss/modules/_mainnav.scss
 
-```css
+```SASS
 $mainNavBackColor: #005522;
 $mainNavFrontColor: #885544;
 
@@ -642,4 +642,4 @@ $mainNavFrontColor: #885544;
 }
 ```
 
-*Explications : Tout comme les noms des classes et des modules, il est important de bien différencier les noms des éléments SASS. Cela permet d’inclure beaucoup de modules sans qu’il n’y ait d’interférences entre eux ainsi que de savoir à quoi font référence chaque éléments SASS.*
+*Explications : Tout comme les noms des classes et des modules, il est important de bien différencier les noms des éléments SASS en préfixant, par exemple, les noms des variables ou des placeholders avec le nom du module auquel ils sont rattachés. Cela permet d’inclure beaucoup de modules sans qu’il n’y ait d’interférences entre eux ainsi que de savoir à quoi font référence chaque éléments SASS.*
