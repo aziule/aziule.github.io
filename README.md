@@ -519,13 +519,10 @@ Les placeholders sont donc préférables pour avoir un code plus friendly et per
 
 Exemple avec mixin :
 
-<table>
-  <tr>
-    <td>SASS</td>
-    <td>CSS compilé</td>
-  </tr>
-  <tr>
-    <td>@mixin rounded-corner($arc) {
+- SASS
+
+```css
+@mixin rounded-corner($arc) {
     -moz-border-radius: $arc;
     -webkit-border-radius: $arc;
     -border-radius: $arc;
@@ -541,8 +538,13 @@ Exemple avec mixin :
     @include rounded-corner(8px);
     color: blue;
     padding: 10px;
-}</td>
-    <td>.button-cta {
+}
+```
+
+- CSS compilé
+
+```css
+.button-cta {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     -border-radius: 5px;
@@ -556,10 +558,8 @@ Exemple avec mixin :
     -border-radius: 8px;
     color: blue;
     padding: 10px; 
-}</td>
-  </tr>
-</table>
-
+}
+```
 
 *Explications : On voit que le code CSS du mixin a été répété deux fois. Code dupliqué, fichier plus volumineux, principe DRY ("Don’t Repeat Yourself") passé aux oubliettes.*
 
@@ -604,47 +604,6 @@ Exemple avec placeholder :
      background-color: blue;
 }
 ```
-
-<table>
-  <tr>
-    <td>SASS</td>
-    <td>CSS compilé</td>
-  </tr>
-  <tr>
-    <td>%button {
-    padding: 10px 15px;
-    color: white;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.button-cta {
-    @extend %button;
-    background-color: red;
-}
-
-.button-primary {
-    @extend %button;
-    background-color: blue;
-}</td>
-    <td>.button-cta, .button-primary {
-    padding: 10px 15px;
-    color: white;
-    margin-bottom: 10px;
-    text-align: center; 
-}
-
-.button-cta {
-     background-color: red;
-}
-
-.button-primary {
-     background-color: blue;
-}
-</td>
-  </tr>
-</table>
-
 
 *Explications : Le code du placeholder n’est présent qu’une fois dans notre fichier. Le code est plus simple, plus maintenable et plus performant.*
 
