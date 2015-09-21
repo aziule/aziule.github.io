@@ -426,8 +426,7 @@ Voici la structure qui doit être utilisée dans SASS pour avoir une efficacité
     <td>Fichiers tierces</td>
   </tr>
   <tr>
-    <td>Exemple</td>
-    <td></td>
+    <td colspan="2">Exemple</td>
   </tr>
   <tr>
     <td>/scss/base/_variables.scss</td>
