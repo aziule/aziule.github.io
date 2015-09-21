@@ -277,7 +277,7 @@ p {
     <td>Fonction</td>
   </tr>
   <tr>
-    <td colspan="2">Balises HTML</td>
+    <td colspan="2">**Balises HTML**</td>
   </tr>
   <tr>
     <td>h1<br>
