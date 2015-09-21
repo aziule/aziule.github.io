@@ -431,11 +431,11 @@ Voici la structure qui doit être utilisée dans SASS pour avoir une efficacité
   </tr>
   <tr>
     <td>/scss/base/_variables.scss</td>
-    <td>Variables TOUJOURS PRÉSENT</td>
+    <td>Variables <sub>TOUJOURS PRÉSENT</sub></td>
   </tr>
   <tr>
     <td>/scss/base/_grid.scss</td>
-    <td>Système de grilles  TOUJOURS PRÉSENT</td>
+    <td>Système de grilles  <sup>TOUJOURS PRÉSENT</sup></td>
   </tr>
   <tr>
     <td>/scss/base/_typography.scss</td>
