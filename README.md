@@ -242,9 +242,9 @@ D’une manière générale, les noms des classes, des images, etc. doivent rest
 
 | Objet | Mauvais exemple | Bon exemple | Explications |
 | --- | --- | --- | --- |
- .icon-favorite .like | .icon-heart | Le mot-clé "icon-favorite" ne représente pas bien l’image, car une icône de coeur peut être utilisée à des fins différentes (d’où le nom “icon-heart”). Idem pour le mot-clé “like”, qui reste beaucoup trop spécifique et qui ne représente pas l’image de coeur. |
- .icons-avisjoe | .icon-logo | “icons-avisjoe” est au pluriel et ne représente pas l’objet dans sa globalité. |
- .icons-reco | .icon-mustache .icon-mustache-orange | Le mot-clé “icons-reco” est au pluriel et ne représente pas l’objet. Le mot-clé “icon-mustache-orange” est utile si nous avons une autre icône d’une couleur différente. Un mauvais exemple, si nous avons 2 couleurs différentes pour la même icône, serait d’avoir “icon1” et “icon2”. |
+<icône de coeur> .icon-favorite .like | .icon-heart | Le mot-clé "icon-favorite" ne représente pas bien l’image, car une icône de coeur peut être utilisée à des fins différentes (d’où le nom “icon-heart”). Idem pour le mot-clé “like”, qui reste beaucoup trop spécifique et qui ne représente pas l’image de coeur. |
+<icône du logo du site> .icons-avisjoe | .icon-logo | “icons-avisjoe” est au pluriel et ne représente pas l’objet dans sa globalité. |
+<icône de moustache> .icons-reco | .icon-mustache .icon-mustache-orange | Le mot-clé “icons-reco” est au pluriel et ne représente pas l’objet. Le mot-clé “icon-mustache-orange” est utile si nous avons une autre icône d’une couleur différente. Un mauvais exemple, si nous avons 2 couleurs différentes pour la même icône, serait d’avoir “icon1” et “icon2”. |
 
 
 Pour plus d’informations, regarder les conventions de nom des icônes du Twitter Bootstrap : [http://getbootstrap.com/components/](http://getbootstrap.com/components/).
