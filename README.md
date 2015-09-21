@@ -277,7 +277,7 @@ p {
     <td>Fonction</td>
   </tr>
   <tr>
-    <td colspan="2">**Balises HTML**</td>
+    <td colspan="2"><strong>Balises HTML</strong></td>
   </tr>
   <tr>
     <td>h1<br>
@@ -333,7 +333,7 @@ h2<br>
     <td>Cacher un élément</td>
   </tr>
   <tr>
-    <td colspan="2">Variables (exemples)</td>
+    <td colspan="2"><strong>Variables (exemples)</strong></td>
   </tr>
   <tr>
     <td>.background-dark<br>
