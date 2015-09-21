@@ -277,7 +277,7 @@ p {
     <td>Fonction</td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center"><strong>Balises HTML</strong></td>
+    <td colspan="2"><strong>Balises HTML</strong></td>
   </tr>
   <tr>
     <td>h1<br>
@@ -564,6 +564,46 @@ Exemple avec mixin :
 *Explications : On voit que le code CSS du mixin a été répété deux fois. Code dupliqué, fichier plus volumineux, principe DRY ("Don’t Repeat Yourself") passé aux oubliettes.*
 
 Exemple avec placeholder :
+
+- SASS
+
+```css
+%button {
+    padding: 10px 15px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.button-cta {
+    @extend %button;
+    background-color: red;
+}
+
+.button-primary {
+    @extend %button;
+    background-color: blue;
+}
+```
+
+- CSS compilé
+
+```css
+.button-cta, .button-primary {
+    padding: 10px 15px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center; 
+}
+
+.button-cta {
+     background-color: red;
+}
+
+.button-primary {
+     background-color: blue;
+}
+```
 
 <table>
   <tr>
