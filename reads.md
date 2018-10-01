@@ -35,6 +35,9 @@ title: Reads & Learnings
 * [The Shadow of the Wind](https://www.goodreads.com/book/show/1232-The_Shadow_of_the_Wind) <small>- Carlos Ruiz Zafón</small>
 * [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/book/show/1202-Freakonomics) <small>-  Steven D. Levitt,  Stephen J. Dubner</small>
 * [9 Out of 10 Climbers Make the Same Mistakes](https://www.goodreads.com/book/show/7489836-9-out-of-10-climbers-make-the-same-mistakes) <small>- Dave MacLeod</small>
+* [The Arab of the Future: A Childhood in the Middle East, 1978-1984: A Graphic Memoir](https://www.goodreads.com/book/show/23168840-the-arab-of-the-future) <small>- Riad Sattouf</small>
+* [Pyongyang: A Journey in North Korea](https://www.goodreads.com/book/show/80834-Pyongyang) <small>- Guy Delisle</small>
+* [Hostage](https://www.goodreads.com/book/show/32178469-s-enfuir-r-cit-d-un-otage) <small>- Guy Delisle</small>
 
 ### Courses
 * [Web Development w/ Google’s Go (golang) Programming Language](https://www.udemy.com/go-programming-language)
