@@ -5,7 +5,7 @@ I am a back-end software engineer & architect, "maker", coming from a full-stack
 
 I find motivation in **learning new things** and I mainly speak Golang, PHP & Javascript. I work on various exciting projects involving backend architectures, microservices, machine learning and natural language processing.
 
-Oh, and I currently live in London <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg">
+Oh, and I currently live in London!
 
 What I do now
 -------------
