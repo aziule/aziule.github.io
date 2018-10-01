@@ -1,3 +1,6 @@
+.site-header {
+  border-top-color: #1D80A0 !important; }
+
 .site-footer > .wrapper > .footer-col-wrapper > .footer-col-3 {
   width: calc(80% - (40px / 2)); }
 
