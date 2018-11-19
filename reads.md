@@ -13,6 +13,7 @@ title: Reads & Learnings
 ## 2018
 
 ### Books
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) <small>- Eric Evans</small>
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) <small>- Robert C. Martin</small>
 * [Homo Deus: A Brief History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus) <small>- Yuval Noah Harari</small>
 * [Da Vinci Code](https://www.goodreads.com/book/show/968-The_Da_Vinci_Code) <small>- Dan Brown</small>
