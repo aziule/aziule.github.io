@@ -10,6 +10,11 @@ title: Reads & Learnings
 * [The Worst Battles of History](https://www.goodreads.com/book/show/32729310-nota-bene-les-pires-batailles-de-l-histoire) <small>- Benjamin Brillaud</small>
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one) <small>- Peter Thiel</small>
 
+## 2019
+
+### Books
+* [The Outsider](https://www.goodreads.com/book/show/36124936-the-outsider) <small>- Stephen King</small>
+
 ## 2018
 
 ### Books
@@ -20,6 +25,7 @@ title: Reads & Learnings
 * [Anything You Want](https://www.goodreads.com/book/show/11878168-anything-you-want) <small>- Derek Sivers</small>
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/book/show/7108725-start-with-why) <small>- Simon Sinek</small>
 * [Tell No One](https://www.goodreads.com/book/show/43933-Tell_No_One) <small>- Harlan Coben</small>
+* Extraordinary Tales <small>- Edgar Allan Poe</small>
 * [Ms Pylinska and Chopin's Secret](https://www.goodreads.com/book/show/39636709-madame-pylinska-et-le-secret-de-chopin) <small>- Éric-Emmanuel Schmitt</small>
 * [The Big Maths Novel](https://www.goodreads.com/book/show/32499926-le-grand-roman-des-maths) <small>- Mickaël Launay</small>
 * [Electrochoc](https://www.goodreads.com/book/show/10513429-electrochoc) <small>- Laurent Garnier</small>
